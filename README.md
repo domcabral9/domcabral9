@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho como SysAdmin, desenvolvendo habilidades DevOps
-- 🌱 Estou estudando Containers, CI/CD, Kubernetes e Cloud
+- 🌱 Estou estudando Containers, CI/CD, Kubernetes, Terraform e Cloud
 - 📫 Contate-me no e-mail: domcabral@protonmail.com
 
 <div align="center">
