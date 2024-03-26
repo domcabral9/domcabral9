@@ -1,9 +1,9 @@
-### Olá, eu sou Dom Cabral 
+### Olá, eu sou André Cabral
 
 
-- 🔭 Hoje eu trabalho como SysAdmin, desenvolvendo habilidades DevOps
-- 🌱 Estou estudando Containers, CI/CD, Kubernetes, Terraform e Cloud
-- 📫 Contate-me no e-mail: domcabral@protonmail.com
+- 🔭 Hoje eu trabalho como Analista de Segurança, desenvolvendo habilidades de Threat Hunting
+- 🌱 Estou estudando conceitos de ameaças usando conceitos da framework MITRE ATT&CK®.
+- 📫 Contate-me no e-mail: domcabral@proton.me
 
 <div align="center">
   <a href="https://github.com/domcabral9">
