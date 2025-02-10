@@ -1,6 +1,12 @@
+Este é o Cabral! Atualmente, trabalho como Assessor de Cibersegurança 100% remoto. Minha stack tecnológica inclui Linux, Fundamentos de Redes, Programação (Bash e Python) e outros.
 
-This is Cabral! I'm currently working as a 
-Cyber Security Analyst 100% remote. My tech stack includes Linux, Networking Fundamentals, Programming (Bash & Python) and others.
+O que me entusiasma na Cibersegurança é a possibilidade de trabalhar com infraestruturas complexas, realizar análise de código usando conceitos de threat hunting.
+
+No meu tempo livre, gosto de quebrar alguns protocolos de segurança no meu homelab (e depois restaurá-los, fortalecendo-os), ir à academia, assistir Netflix, jogar e passar tempo com as pessoas que amo.
+
+**Translate....**
+
+This is Cabral! I'm currently working as a Cyber Security Advisor 100% remote. My tech stack includes Linux, Networking Fundamentals, Programming (Bash & Python) and others.
 
 What excites me about Cyber Security is the possibility to work with complex infrastructures, perform code analysis using threat hunting concepts.
 
